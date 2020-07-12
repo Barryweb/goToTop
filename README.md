@@ -1,7 +1,7 @@
 # goToTop
 底部按鈕 按了回到頂部
 
-展示網頁:https://barryweb.github.io/goToTop/
+展示網頁:https://barryweb.github.io/goToTop/main.js
 
 #使用方式
 
