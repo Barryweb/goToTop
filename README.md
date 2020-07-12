@@ -7,7 +7,7 @@
 
 1. 連結CDN
 ```
-<script>https://barryweb.github.io/goToTop/main.js</script>
+<script src="https://barryweb.github.io/goToTop/main.js"></script>
 ```
 2. 添加屬性
 ```
